@@ -37,8 +37,6 @@ https://github.com/sowk6996-glitch/your-repository-name
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
 - Git
 - GitHub
 - GitHub Pages
@@ -51,11 +49,10 @@ https://github.com/sowk6996-glitch/your-repository-name
 Portfolio/
 │
 ├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── style.css
-├── script.js
+├── register.html
+├── projectsterms and conditions.html
+├── welcome.html
+├── thankyou.html
 ├── assets/
 │   ├── images/
 │   └── icons/
